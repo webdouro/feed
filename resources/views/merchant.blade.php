@@ -51,6 +51,8 @@
                     <g:availability>in stock</g:availability>
                 </item>
             @endif
+
+            
         @endforeach
     </channel>
 </rss>
